@@ -121,7 +121,7 @@ const menuItems: MenuItemType[] = [
     id: 15,
     name: "Сет 'Запечений'",
     description: "24 шт / 740 гр: Запечений Філадельфія, Запечений з вугрем і беконом, Запечений Чікен",
-    price: 579,
+    price: 569,
     image: "/images/Запечений2.jpg",
     category: "sets"
   },
@@ -194,7 +194,7 @@ const menuItems: MenuItemType[] = [
     id: 24,
     name: "Запечений Чікен",
     description: "Курка теріякі, крем-сир, тамаго, ананас, унагі соус, кунжут, рис, норі, сирний соус",
-    price: 229,
+    price: 219,
     image: "/images/Запечений з мідіями і беконом.jpg",
     category: "zapecheni"
   },
@@ -243,7 +243,7 @@ const menuItems: MenuItemType[] = [
     id: 30,
     name: "Каліфорнія з беконом в кунжуті",
     description: "Бекон, огірок, помідор, майонез, рис, норі, унагі соус, кунжут",
-    price: 209,
+    price: 219,
     image: "/images/Каліфорнія з беконом в кунжуті2.jpg",      
     category: "kalifornija"
   },  
@@ -405,7 +405,7 @@ const menuItems: MenuItemType[] = [
     id: 50,
     name: "Макі огірок",
     description: "Огірок, кунжут, рис, норі",
-    price: 79,
+    price: 89,
     image: "/images/Макі огірок.png",
     category: "futo-maki"
   },
@@ -437,7 +437,7 @@ const menuItems: MenuItemType[] = [
     id: 54,
     name: "Макі вершковий лосось",
     description: "Лосось, крем-сир, рис, норі",
-    price: 149,
+    price: 139,
     image: "/images/Макі вершкова креветка.png",
     category: "futo-maki"
   },
@@ -445,7 +445,7 @@ const menuItems: MenuItemType[] = [
     id: 55,
     name: "Макі тунець",
     description: "Тунець, рис, норі",
-    price: 149,
+    price: 139,
     image: "/images/Макі тунець.png",
     category: "futo-maki"
   },
@@ -599,7 +599,7 @@ const menuItems: MenuItemType[] = [
     id: 75,
     name: "Салат Чука",
     description: "Класичний японський салат із водоростей з горіховим соусом",
-    price: 129,
+    price: 159,
     image: "/images/Chukka-sarada.jpg",
     category: "salat"
   },

@@ -364,7 +364,7 @@ const menuItems: MenuItemType[] = [
     id: 45,
     name: "Крім-суші з лососем",
     description: "Лосось, рис, крем-сир, норі",
-    price: 69,
+    price: 79,
     image: "/images/Крім-суші з лососем.png",
     category: "krim-sushi"
   },
@@ -372,7 +372,7 @@ const menuItems: MenuItemType[] = [
     id: 46,
     name: "Крім-суші з лососем слабосоленим",
     description: "Лосось с/с, рис, крем-сир, норі",
-    price: 79,
+    price: 89,
     image: "/images/Крім-суші з лососем.png",
     category: "krim-sushi"
   },
@@ -380,7 +380,7 @@ const menuItems: MenuItemType[] = [
     id: 47,
     name: "Крім-суші з креветкою",
     description: "Креветка, рис, крем-сир, норі",
-    price: 79,
+    price: 89,
     image: "/images/Крім-суші з креветкою.png",
     category: "krim-sushi"
   },
@@ -396,7 +396,7 @@ const menuItems: MenuItemType[] = [
     id: 49,
     name: "Крім-суші з вугрем",
     description: "Вугор рис, крем-сир, норі, унагі соус, кунжут",
-    price: 89,
+    price: 99,
     image: "/images/Крім-суші з вугрем.png",
     category: "krim-sushi"
   },

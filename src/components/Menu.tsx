@@ -413,7 +413,7 @@ const menuItems: MenuItemType[] = [
     id: 51,
     name: "Хіяші макі",
     description: "Суміш водоростей, горіховий соус, рис, норі",
-    price: 109,
+    price: 99,
     image: "/images/Макі хіяші1.jpg",
     category: "futo-maki"
   },
@@ -421,7 +421,7 @@ const menuItems: MenuItemType[] = [
     id: 52,
     name: "Макі авокадо",
     description: "Авокадо, кунжут, рис, норі, унагі соус",
-    price: 109,
+    price: 99,
     image: "/images/Макі авокадо.png",
     category: "futo-maki"
   },

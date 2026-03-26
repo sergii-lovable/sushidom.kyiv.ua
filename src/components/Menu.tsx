@@ -24,7 +24,7 @@ const menuItems: MenuItemType[] = [
     id: 3,
     name: "Філадельфія з лососем та креветкою",
     description: "Лосось, креветка, крем-сир, авокадо, рис, норі",
-    price: 329,
+    price: 319,
     image: "/images/Філадельфія з лососем та креветкою 2.jpg",
     category: "rolls"
   },

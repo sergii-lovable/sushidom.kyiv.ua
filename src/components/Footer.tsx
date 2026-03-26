@@ -46,7 +46,7 @@ const Footer = () => {
                 <meta itemProp="opens" content="10:00" />
                 <meta itemProp="closes" content="21:00" />
                 <p>Пт,Сб,Нд: 10:00 - 21:00</p>
-                <p className="text-sm mt-1">Доставка по Броварах 100 грн</p>
+                <p className="text-sm mt-1">Доставка по Броварах 80 грн</p>
               </div>
             </div>
           </div>

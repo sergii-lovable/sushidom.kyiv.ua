@@ -56,7 +56,7 @@ const menuItems: MenuItemType[] = [
     id: 7,
     name: "Філадельфія з беконом",
     description: "Бекон, крем-сир, помідор, рис, норі",
-    price: 209,
+    price: 219,
     image: "/images/Філадельфія з беконом.png",
     category: "rolls"
   },

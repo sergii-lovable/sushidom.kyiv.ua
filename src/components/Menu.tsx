@@ -380,7 +380,7 @@ const menuItems: MenuItemType[] = [
     id: 47,
     name: "Крім-суші з креветкою",
     description: "Креветка, рис, крем-сир, норі",
-    price: 89,
+    price: 79,
     image: "/images/Крім-суші з креветкою.png",
     category: "krim-sushi"
   },

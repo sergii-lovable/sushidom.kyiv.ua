@@ -46,7 +46,7 @@ const Footer = () => {
                 <meta itemProp="opens" content="10:00" />
                 <meta itemProp="closes" content="21:00" />
                 <p>Пт,Сб,Нд: 10:00 - 21:00</p>
-                <p className="text-sm mt-1">Доставка по Броварах від 800 грн безкоштовна</p>
+                <p className="text-sm mt-1">Доставка по м.Бровари на суму від 800 грн безкоштовна</p>
               </div>
             </div>
           </div>

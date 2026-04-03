@@ -1,12 +1,12 @@
 # 🍣 Пузаті суші - Brovary
 
-[![Deploy to GitHub Pages](https://github.com/sergii-lovable/buzaty-sushi-brovary/actions/workflows/deploy.yml/badge.svg)](https://github.com/sergii-lovable/buzaty-sushi-brovary/actions/workflows/deploy.yml)
-[![Tests](https://img.shields.io/endpoint?url=https://puzatisushi.com.ua/test-stats.json)](https://github.com/sergii-lovable/buzaty-sushi-brovary/actions/workflows/deploy.yml)
-[![Playwright](https://img.shields.io/endpoint?url=https://puzatisushi.com.ua/browser-stats.json)](https://playwright.dev/)
+[![Deploy to GitHub Pages](https://github.com/sergii-lovable/sushidom.kyiv.ua/actions/workflows/deploy.yml/badge.svg)](https://github.com/sergii-lovable/sushidom.kyiv.ua/actions/workflows/deploy.yml)
+[![Tests](https://img.shields.io/endpoint?url=https://sushidom.kyiv.ua/test-stats.json)](https://github.com/sergii-lovable/sushidom.kyiv.ua/actions/workflows/deploy.yml)
+[![Playwright](https://img.shields.io/endpoint?url=https://sushidom.kyiv.ua/browser-stats.json)](https://playwright.dev/)
 
 Modern sushi restaurant website with online ordering and delivery for Brovary, Ukraine.
 
-**Live Site**: [puzatisushi.com.ua](https://puzatisushi.com.ua)
+**Live Site**: [sushidom.kyiv.ua](https://sushidom.kyiv.ua)
 
 ## 📋 About
 
@@ -84,10 +84,10 @@ If the build fails with noscript generation errors:
 
 ```sh
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/buzaty-sushi-brovary.git
+git clone https://github.com/YOUR_USERNAME/sushidom.kyiv.ua.git
 
 # Navigate to project directory
-cd buzaty-sushi-brovary
+cd sushidom.kyiv.ua
 
 # Install dependencies
 npm install
@@ -163,12 +163,12 @@ npx playwright show-report
 - Screenshots and videos captured on failure
 - Test traces available for debugging
 
-> **Note**: The test count and browser badges at the top of this README are automatically updated on every deployment. The badges dynamically fetch data from `https://puzatisushi.com.ua/test-stats.json` and `https://puzatisushi.com.ua/browser-stats.json`, which are generated during the CI/CD pipeline by analyzing test results and `playwright.config.ts` without creating any commits to this repository.
+> **Note**: The test count and browser badges at the top of this README are automatically updated on every deployment. The badges dynamically fetch data from `https://sushidom.kyiv.ua/test-stats.json` and `https://sushidom.kyiv.ua/browser-stats.json`, which are generated during the CI/CD pipeline by analyzing test results and `playwright.config.ts` without creating any commits to this repository.
 
 ## 📁 Project Structure
 
 ```
-buzaty-sushi-brovary/
+sushidom.kyiv.ua/
 ├── src/
 │   ├── components/
 │   │   ├── Cart.tsx              # Shopping cart sidebar
@@ -224,16 +224,16 @@ buzaty-sushi-brovary/
 
 ## How can I deploy this project?
 
-### GitHub Pages (puzatisushi.com.ua)
+### GitHub Pages (sushidom.kyiv.ua)
 
-This project is configured to deploy automatically to GitHub Pages at **puzatisushi.com.ua**.
+This project is configured to deploy automatically to GitHub Pages at **sushidom.kyiv.ua**.
 
 #### Initial Setup (One-time)
 
 1. Go to your GitHub repository settings
 2. Navigate to **Settings** > **Pages**
 3. Under **Source**, select **GitHub Actions**
-4. Under **Custom domain**, enter `puzatisushi.com.ua` (if not already set)
+4. Under **Custom domain**, enter `sushidom.kyiv.ua` (if not already set)
 5. Wait for DNS check to complete
 
 #### DNS Configuration
@@ -250,7 +250,7 @@ Make sure your DNS provider has the following records:
 
 **CNAME Record** (if using www subdomain):
 ```
-www.puzatisushi.com.ua CNAME <your-github-username>.github.io
+www.sushidom.kyiv.ua CNAME <your-github-username>.github.io
 ```
 
 #### Automatic Deployment

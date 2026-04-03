@@ -13,7 +13,7 @@
 - Include exact file paths in descriptions
 
 ## Path Conventions
-- Repository root: `/Users/sergilliukhin/GitHub/buzaty-sushi-brovary/`
+- Repository root: `/Users/sergilliukhin/GitHub/sushidom.kyiv.ua/`
 - Source files: `src/`
 - Build plugins: `vite-plugins/`
 - Vite config: `vite.config.ts`

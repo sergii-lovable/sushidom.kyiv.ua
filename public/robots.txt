@@ -14,4 +14,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://puzatisushi.com.ua/sitemap.xml
+Sitemap: https://sushidom.kyiv.ua/sitemap.xml

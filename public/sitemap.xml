@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://puzatisushi.com.ua/</loc>
+    <loc>https://sushidom.kyiv.ua/</loc>
     <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://puzatisushi.com.ua/puzati-sushi.png</image:loc>
+      <image:loc>https://sushidom.kyiv.ua/puzati-sushi.png</image:loc>
       <image:title>Пузаті суші - Доставка суші у Броварах</image:title>
       <image:caption>Найсмачніші суші у Броварах</image:caption>
     </image:image>

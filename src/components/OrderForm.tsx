@@ -34,7 +34,7 @@ const OrderForm = ({ isOpen, onClose, items, total, onOrderComplete }: OrderForm
       `${item.name} x${item.quantity} - ${item.price * item.quantity} ₴`
     ).join('\n');
 
-    const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSfFQdUKSO3XZI4_kE4e9kLvlWBmii6gCmWl5YLsWOIDR-MCHA/formResponse";
+    const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdGbDMKKiK0PVLnpwZXq69Elspn0IYqXq56FP3cKjTl7nmGAg/formResponse";
     
     const formBody = new URLSearchParams({
       "entry.226695464": formData.name,

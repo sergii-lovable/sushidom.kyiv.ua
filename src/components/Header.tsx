@@ -14,15 +14,15 @@ const Header = ({ cartCount, onCartClick }: HeaderProps) => {
         <div className="flex items-center gap-2">
           <span className="text-2xl" role="img" aria-label="Суші">🍣</span>
           <div>
-            <h1 className="text-xl font-bold text-primary">Пузаті суші</h1>
+            <h1 className="text-xl font-bold text-primary">СушиДом</h1>
             <div className="text-xs text-muted-foreground" itemProp="address" itemScope itemType="https://schema.org/PostalAddress">
-              <div itemProp="addressLocality">Працюємо Пт,Сб,Нд 10:00-21:00 </div>
+              <div itemProp="addressLocality">ПБез вихідних 10:00-21:00 </div>
               <a 
-                href="tel:+380771720707" 
+                href="tel:+380980036263" 
                 className="hover:text-primary transition-colors"
                 itemProp="telephone"
               >
-                +38 (077) 172 07 07
+                +38 (098) 003 62 63
               </a>
             </div>
           </div>

@@ -8,7 +8,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <span className="text-3xl" role="img" aria-label="Суші">🍣</span>
-              <h3 className="text-xl font-bold text-primary" itemProp="name">Пузаті суші</h3>
+              <h3 className="text-xl font-bold text-primary" itemProp="name">СушиДом</h3>
             </div>
             <p className="text-muted-foreground" itemProp="description">
               Найсмачніші суші у Броварах з доставкою додому

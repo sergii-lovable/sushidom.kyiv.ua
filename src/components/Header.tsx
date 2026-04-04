@@ -16,7 +16,7 @@ const Header = ({ cartCount, onCartClick }: HeaderProps) => {
           <div>
             <h1 className="text-xl font-bold text-primary">СушиДом</h1>
             <div className="text-xs text-muted-foreground" itemProp="address" itemScope itemType="https://schema.org/PostalAddress">
-              <div itemProp="addressLocality">ПБез вихідних 10:00-21:00 </div>
+              <div itemProp="addressLocality">Без вихідних 10:00-21:00 </div>
               <a 
                 href="tel:+380980036263" 
                 className="hover:text-primary transition-colors"

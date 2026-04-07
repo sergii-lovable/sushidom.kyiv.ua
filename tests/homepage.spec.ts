@@ -4,10 +4,10 @@ test('homepage loads correctly', async ({ page }) => {
   await page.goto('/');
   
   // Check if the page title is correct (Ukrainian title)
-  await expect(page).toHaveTitle(/Пузаті суші/);
+  await expect(page).toHaveTitle(/СУШИDОМ/);
   
   // Check if the main heading in header is visible (more specific selector)
-  await expect(page.getByRole('banner').getByRole('heading', { name: 'Пузаті суші' })).toBeVisible();
+  await expect(page.getByRole('banner').getByRole('heading', { name: 'СУШИDОМ' })).toBeVisible();
 });
 
 test('menu items are displayed', async ({ page }) => {

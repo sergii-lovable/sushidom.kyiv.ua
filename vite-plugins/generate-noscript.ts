@@ -213,8 +213,8 @@ function generateNoscriptHTML(groupedItems: Map<string, MenuItemType[]>): string
   
   // Header section
   html += `      <header style="padding: 20px; background: #1a1a1a; color: white;">\n`;
-  html += `        <h1>Пузаті суші - Доставка суші у Броварах</h1>\n`;
-  html += `        <p>Замовте найсмачніші суші у Броварах з швидкою доставкою</p>\n`;
+  html += `        <h1>СУШИDОМ - Найсмачніші суші у Києві</h1>\n`;
+  html += `        <p>Замовте найсмачніші суші у Києві</p>\n`;
   html += `      </header>\n`;
   
   // Main content section
@@ -245,15 +245,15 @@ function generateNoscriptHTML(groupedItems: Map<string, MenuItemType[]>): string
   // Contact section
   html += `        <section>\n`;
   html += `          <h2 style="font-size: 1.8em; margin: 24px 0 16px;">Контакти</h2>\n`;
-  html += `          <p><strong>Телефон:</strong> +38 077 172-07-07</p>\n`;
-  html += `          <p><strong>Адреса:</strong> м. Бровари, вул. Грушевського 7</p>\n`;
+  html += `          <p><strong>Телефон:</strong> +38 098 003-62-63</p>\n`;
+  html += `          <p><strong>Адреса:</strong> м. Київ, вул. Княжий затон 2/30</p>\n`;
   html += `          <p><strong>Час роботи:</strong> Пн-Нд: 10:00 - 21:00</p>\n`;
   html += `        </section>\n`;
   html += `      </main>\n`;
   
   // Footer section
   html += `      <footer style="padding: 20px; background: #1a1a1a; color: white; margin-top: 40px;">\n`;
-  html += `        <p>&copy; ${new Date().getFullYear()} Пузаті суші. Всі права захищені.</p>\n`;
+  html += `        <p>&copy; ${new Date().getFullYear()} СУШИDОМ. Всі права захищені.</p>\n`;
   html += `      </footer>`;
   
   return html;

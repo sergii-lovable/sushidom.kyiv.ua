@@ -52,7 +52,7 @@ This document consolidates research findings for implementing an up-to-date nosc
 **Decision**: 
 ```html
 <header>
-  <h1>Пузаті суші - Доставка суші у Броварах</h1>
+  <h1>СУШИDОМ - Найсмачніші суші в Києві</h1>
   <p>Tagline</p>
 </header>
 <main>

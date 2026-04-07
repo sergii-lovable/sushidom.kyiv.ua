@@ -8,7 +8,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <span className="text-3xl" role="img" aria-label="Суші">🍣</span>
-              <h3 className="text-xl font-bold text-primary" itemProp="name">СушиДом</h3>
+              <h3 className="text-xl font-bold text-primary" itemProp="name">СУШИDОМ</h3>
             </div>
             <p className="text-muted-foreground" itemProp="description">
               Найсмачніші суші у Києві
@@ -53,7 +53,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t mt-8 pt-8 text-center text-muted-foreground text-sm">
-          <p>&copy; 2025 СушиДом. Всі права захищені.</p>
+          <p>&copy; 2025 СУШИDОМ. Всі права захищені.</p>
         </div>
       </div>
     </footer>

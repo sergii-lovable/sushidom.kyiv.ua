@@ -11,7 +11,7 @@ Sync Impact Report
 - Follow-up TODOs: Update CI/CD pipeline to enforce test pass requirement; Add pre-commit hook for test execution
 -->
 
-# Пузаті суші (Buzaty Sushi Brovary) Constitution
+# Пузаті суші (Puzaty Sushi Brovary) Constitution
 
 ## Core Principles
 

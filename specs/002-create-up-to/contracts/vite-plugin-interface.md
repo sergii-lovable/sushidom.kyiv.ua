@@ -93,8 +93,8 @@ const menuItems: MenuItemType[] = [
 ```html
 <noscript>
   <header style="padding: 20px; background: #1a1a1a; color: white;">
-    <h1>Пузаті суші - Доставка суші у Броварах</h1>
-    <p>Замовте найсмачніші суші у Броварах з швидкою доставкою</p>
+    <h1>СУШИDОМ - Найсмачніші суші у Києві</h1>
+    <p>Замовте найсмачніші суші у Києві</p>
   </header>
   <main style="padding: 20px; max-width: 1200px; margin: 0 auto;">
     <section>
@@ -113,13 +113,13 @@ const menuItems: MenuItemType[] = [
     </section>
     <section>
       <h2>Контакти</h2>
-      <p><strong>Телефон:</strong> +38 077 172-07-07</p>
-      <p><strong>Адреса:</strong> м. Бровари, вул. Грушевського 7</p>
+      <p><strong>Телефон:</strong> +38 098 003-62-63</p>
+      <p><strong>Адреса:</strong> м. Київ, вул. Княжий затон 2/30</p>
       <p><strong>Час роботи:</strong> Пн-Нд: 10:00 - 21:00</p>
     </section>
   </main>
   <footer style="padding: 20px; background: #1a1a1a; color: white; margin-top: 40px;">
-    <p>&copy; 2025 Пузаті суші. Всі права захищені.</p>
+    <p>&copy; 2025 СУШИDОМ. Всі права захищені.</p>
   </footer>
 </noscript>
 ```

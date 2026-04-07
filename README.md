@@ -1,4 +1,4 @@
-# 🍣 Пузаті суші - Brovary
+# 🍣 СУШИDОМ - Kyiv
 
 [![Deploy to GitHub Pages](https://github.com/sergii-lovable/sushidom.kyiv.ua/actions/workflows/deploy.yml/badge.svg)](https://github.com/sergii-lovable/sushidom.kyiv.ua/actions/workflows/deploy.yml)
 [![Tests](https://img.shields.io/endpoint?url=https://sushidom.kyiv.ua/test-stats.json)](https://github.com/sergii-lovable/sushidom.kyiv.ua/actions/workflows/deploy.yml)
@@ -21,8 +21,8 @@ Modern sushi restaurant website with online ordering and delivery for Brovary, U
 
 ### Contact Information
 
-- 📍 **Address**: м. Бровари, вул. Грушевського 7
-- 📞 **Phone**: +38 (077) 172-07-07
+- 📍 **Address**: м. Київ, вул. Княжий затон 2/30
+- 📞 **Phone**: +38 (098) 003-62-63
 - 🕐 **Hours**: Пн-Нд: 10:00 - 21:00
 
 ## 🛠 Technologies
